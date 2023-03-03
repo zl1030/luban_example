@@ -14,7 +14,7 @@ docker run --name luban-server -d --rm -p 8899:8899 zl1030/luban-server:latest
 运行data_json.bat, 会在output/data_json目录下生成json文件。
 
 ### 三、生成java代码并测试：
-运行code_java_json.bat, 会在output/code_java_json目录下生成java代码。然后，把生成好的java代码拷贝到路径\java\src\main\java\com\example下。运行java项目下example.java测试数据读取是否正常。
+运行code_java_json.bat, 会在output/code_java_json目录下生成java代码。然后，把生成好的java代码拷贝到路径\java\src\main\java\com\example\luban_code下。运行java项目下example.java测试数据读取是否正常。
 
 ### 四、生成typescript代码：
 运行code_typescript_json.bat, 会在output/code_typescript_json目录下生成文件Types.ts。然后，拷贝到路径\typescript\src\models下。运行typescript项目下example.ts测试数据读取是否正常。  
