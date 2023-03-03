@@ -1,0 +1,120 @@
+[
+  {
+    "id": 910000,
+    "name": "装备发型",
+    "hole_list": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      }
+    ],
+    "desc": {
+      "key": "equip_desc_00",
+      "text": "初始发型"
+    }
+  },
+  {
+    "id": 910001,
+    "name": "装备外套",
+    "hole_list": [
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      }
+    ],
+    "desc": {
+      "key": "equip_desc_01",
+      "text": "初始外套"
+    }
+  },
+  {
+    "id": 910002,
+    "name": "装备上衣",
+    "hole_list": [
+      {
+        "id": 9
+      },
+      {
+        "id": 8
+      }
+    ],
+    "desc": {
+      "key": "equip_desc_02",
+      "text": "初始上衣"
+    }
+  },
+  {
+    "id": 910003,
+    "name": "装备裙子",
+    "hole_list": [
+      {
+        "id": 6
+      }
+    ],
+    "desc": {
+      "key": "equip_desc_03",
+      "text": "初始下装"
+    }
+  },
+  {
+    "id": 910004,
+    "name": "装备袜子",
+    "hole_list": [],
+    "desc": {
+      "key": "equip_desc_04",
+      "text": "初始袜子"
+    }
+  },
+  {
+    "id": 910005,
+    "name": "装备鞋子",
+    "hole_list": [],
+    "desc": {
+      "key": "equip_desc_05",
+      "text": "初始鞋子"
+    }
+  },
+  {
+    "id": 910006,
+    "name": "装备发饰",
+    "hole_list": [],
+    "desc": {
+      "key": "equip_desc_06",
+      "text": "初始发饰"
+    }
+  },
+  {
+    "id": 910007,
+    "name": "装备中秋节发饰",
+    "hole_list": [],
+    "desc": {
+      "key": "equip_desc_07",
+      "text": "中秋节发饰"
+    }
+  },
+  {
+    "id": 910008,
+    "name": "装备中秋节鞋子",
+    "hole_list": [],
+    "desc": {
+      "key": "equip_desc_08",
+      "text": "中秋节鞋子"
+    }
+  },
+  {
+    "id": 910009,
+    "name": "装备礼包",
+    "hole_list": [],
+    "desc": {
+      "key": "equip_desc_09",
+      "text": "中秋节礼包"
+    }
+  }
+]

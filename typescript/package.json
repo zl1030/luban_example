@@ -1,0 +1,21 @@
+{
+  "name": "luban_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^18.14.2"
+  },
+  "dependencies": {
+    "math": "^0.0.3",
+    "openai": "^3.2.1",
+    "seamless-immutable": "^7.1.4",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
